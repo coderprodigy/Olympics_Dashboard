@@ -30,7 +30,6 @@ https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-result
 
 
 ## The Pipeline
-![alt text](https://github.com/fbarajasar/olympics_project/blob/master/pipeline.png)
 1. Extract and Clean the data from both CSV files.
 3. Create an overall medal tally with customisation for each year and each country.
 4. EDA is performed to visualise the participation of nations over time, find the most successful athletes of all time and much more.
