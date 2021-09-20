@@ -4,6 +4,14 @@
 
 Nexus is a great dashboard to learn and have great fun with Olympics data. Nexus is for all the users who are interested in interacting with the dataset and who would like to extract and share insights about the Olympic Games.
 
+## 🚀 About Me
+I'm an upcoming Software Engineer at JP Morgan and Chase. I love to code and explore various technical stacks. I am an aspiring Dataset.
+Feel free to connect with me and I would love to work together on various projects 👨🏻‍💻.
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilreet-singh-0007/)
+[![twitter](https://img.shields.io
+
 ## Live App Prototype
 https://olympics-dashboard-view.herokuapp.com
 
@@ -54,10 +62,4 @@ Streamlit is an open-source Python library that makes it easy to build beautiful
 ### The App is deployed here:
 https://olympics-dashboard-view.herokuapp.com
 
-## 🚀 About Me
-I'm an upcoming Software Engineer at JP Morgan and Chase. I love to code and explore various technical stacks. I am an aspiring Dataset.
-Feel free to connect with me and I would love to work together on various projects 👨🏻‍💻.
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilreet-singh-0007/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dilreetsingh/)
+/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dilreetsingh/)
