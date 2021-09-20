@@ -10,7 +10,7 @@ Feel free to connect with me and I would love to work together on various projec
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilreet-singh-0007/)
-[![twitter](https://img.shields.io
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dilreetsingh/)
 
 ## Live App Prototype
 https://olympics-dashboard-view.herokuapp.com
@@ -62,4 +62,3 @@ Streamlit is an open-source Python library that makes it easy to build beautiful
 ### The App is deployed here:
 https://olympics-dashboard-view.herokuapp.com
 
-/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dilreetsingh/)
