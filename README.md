@@ -1,6 +1,6 @@
 # NEXUS: Olympics Dashboard
 
-![alt text](https://1000logos.net/wp-content/uploads/2021/03/Olympics-logo.png)
+![Olympics Logo](https://1000logos.net/wp-content/uploads/2021/03/Olympics-logo.png)
 
 Nexus is a great dashboard to learn and have great fun with Olympics data. Nexus is for all the users who are interested in interacting with the dataset and who would like to extract and share insights about the Olympic Games.
 
